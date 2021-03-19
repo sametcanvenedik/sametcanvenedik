@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sametcanvenedik
+- 👀 I’m interested in software
+- 🌱 I’m currently learning c++
+- 💞️ I’m looking to collaborate on anything about software
+- 📫 How to reach me sametcanvenedik@gmail.com
